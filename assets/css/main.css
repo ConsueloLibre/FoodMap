@@ -1,0 +1,97 @@
+header{
+  text-align: center;
+}
+.container-fluid{
+  background: #6b1b0e;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+}
+.inf{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+img{
+  width: 6vh
+}
+br{
+  width: 80vh;
+  height: 1px;
+  color: white;
+}
+/*.foot{
+  width: 11vh;
+  padding-left: 2vh;
+}
+.foot2{
+  width: 15vh;
+  padding-left: 2vh;
+}*/
+.selector{
+  margin-bottom: 10vh;
+}
+.mapa{
+  margin-bottom: 5vh;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+select{
+  color:black;
+  font-family: 'Roboto', sans-serif;
+}
+footer{
+  margin-bottom: 10vh;
+}
+.foot2 img{
+width: 20vh;
+margin: 2%;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+border-radius: 13px 13px 13px 13px;
+}
+.foot2 img:hover {
+width: 40vh;
+
+}
+
+.foot img{
+width: 15vh;
+margin: 15px 0;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+border-radius: 13px 13px 13px 13px;
+}
+.foot img:hover {
+width: 40vh;
+}
+h2{
+  color: black;
+}
+h3{
+  color:grey;
+  font-family: 'Alegreya', serif;
+}
+#splash {
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:#6b1b0e;
+    z-index: 100;
+    font-family: 'Abril Fatface', cursive;
+    color: black;
+    font-size: 13vh;
+
+}
+.open{
+  width: 15vh;
+}
+center{
+  margin-top: 15vh;
+  border: solid black 1%;
+
+}
